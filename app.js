@@ -34,9 +34,6 @@
 //     });
 // });
 
-const { callout } = require("highcharts");
-const { useCallback } = require("react");
-
 // ----------------------------------------------------------------------------------------------------------------------------------
 
 // document.addEventListener('DOMContentLoaded', function () {
